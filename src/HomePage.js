@@ -26,7 +26,8 @@ const HomePage = () => {
         <li>Feature 3: Clean design</li>
       </ul>
       <p>This is a new feature branch 1</p>
-      <p>This is a new feature branch 2</p>
+      <p>This is a new feature branch 2 - commit 1 </p>
+      <p>This is a new feature branch 2 - commit 2</p>
       <a
         href="https://reactjs.org"
         target="_blank"
