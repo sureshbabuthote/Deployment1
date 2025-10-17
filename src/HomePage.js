@@ -19,6 +19,7 @@ const HomePage = () => {
         infancy. Various versions have evolved over the years, sometimes by
         accident, sometimes on purpose (injected humour and the like).
       </p>
+      <p>Deployed to Vercel and Github Pages</p>
       <ul style={styles.list}>
         <li>Feature 1: Easy to use</li>
         <li>Feature 2: Responsive layout</li>
