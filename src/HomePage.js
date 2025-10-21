@@ -27,6 +27,7 @@ const HomePage = () => {
       </ul>
       <p>This is a new feature branch 1</p>
       <p>This is a new feature branch 2</p>
+      <p>This is a new feature branch 3</p>
       <a
         href="https://reactjs.org"
         target="_blank"
