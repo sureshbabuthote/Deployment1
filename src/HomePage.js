@@ -25,6 +25,7 @@ const HomePage = () => {
         <li>Feature 2: Responsive layout</li>
         <li>Feature 3: Clean design</li>
       </ul>
+      <p>Deployed to Github Pages using github actions</p>
       <a
         href="https://reactjs.org"
         target="_blank"
